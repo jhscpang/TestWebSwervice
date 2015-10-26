@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-db4b774691f170252b14195565da0e3578f7e154.jar" />
+    </item>
+    <item
+        jar="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\pre-dexed\debug\classes-dd492615fa0b7a5681fba4318c6ec20945713dd5.jar" />
+    </item>
+    <item
+        jar="C:\ProgramFiles\Android\adt-bundle-windows-x86_64\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3929cc06f1595a54669e526f450b6cbf6a2e3dad.jar" />
+    </item>
+    <item
+        jar="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\pre-dexed\debug\classes-05d557b8a2af9afb2551b1b9a254e5cf19334d76.jar" />
+    </item>
+    <item
+        jar="D:\Study\Android\AndroidStudioProjects\TestWebService\app\libs\ksoap2-android-assembly-3.5.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="21cd457fa3bf24fcb2ab1e3514930a326f5c5bb6">
+        <dex dex="D:\Study\Android\AndroidStudioProjects\TestWebService\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.5.0-jar-with-dependencies-a3316ac5630c22a1ae54e95f468fbbd9eaab53c9.jar" />
+    </item>
+
+</items>
